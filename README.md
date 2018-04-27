@@ -2,7 +2,7 @@
 The collection of Xcode templates
 
 # Installation
-First of all you need to create `File\ Templates`:
+First of all you need to create `File Templates`:
 
 `mkdir -p ~/Library/Developer/Xcode/Templates/File\ Templates/Source`
 
